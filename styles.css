@@ -97,7 +97,7 @@ body {
 }
 
 .skills ul {
-    list-style: none;
+    list-style: none; /* Removed bullets */
     padding-left: 0;
 }
 
